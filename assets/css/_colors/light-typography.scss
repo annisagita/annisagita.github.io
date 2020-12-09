@@ -9,22 +9,22 @@
 @mixin light-scheme {
   /* Common */
   --body-bg: #fafafa;
-  --mask-bg: #c1c3c5;
+  --mask-bg: #000000;
   --main-wrapper-bg: white; // udah dicoba
   --main-border-color: #f3f3f3; // udah
   --btn-border-color: #e9ecef; // udah
   --text-color: #000000;
-  --blockquote-border-color: #eee;
+  --blockquote-border-color: #000000;
   --blockquote-text-color: #9a9a9a;
   --link-color: #2a408e;
   --link-underline-color: #dee2e6;
   --text-muted-color: gray;
   --tb-odd-bg: #fbfcfd; // udah
   --tb-border-color: #eaeaea;
-  --button-bg: #fff;
+  --button-bg: #ffffff; // udah
   --btn-backtotop-color: #686868;
   --btn-backtotop-border-color: #f1f1f1; //--main-border-color,
-  --btn-box-shadow: #eaeaea;
+  --btn-box-shadow: #000000;
 
   /* Sidebar */
   --sidebar-bg: radial-gradient(
