@@ -133,27 +133,27 @@ defaults:
         -
           label: Posts
   -
-    scope:
-      path: tags
-    values:
-      breadcrumb:
-        -
-          label: Home
-          url: /
-        -
-          label: Tags
-          url: /tabs/tags/
+    # scope:
+    #   path: tags
+    # values:
+    #   breadcrumb:
+    #     -
+    #       label: Home
+    #       url: /
+    #     -
+    #       label: Tags
+    #       url: /tabs/tags/
   -
-    scope:
-      path: categories
-    values:
-      breadcrumb:
-        -
-          label: Home
-          url: /
-        -
-          label: Categories
-          url: /tabs/categories/
+    # scope:
+    #   path: categories
+    # values:
+    #   breadcrumb:
+    #     -
+    #       label: Home
+    #       url: /
+    #     -
+    #       label: Categories
+    #       url: /tabs/categories/
   -
     scope:
       path: ''
