@@ -11,17 +11,17 @@
   --body-bg: #fafafa;
   --mask-bg: #c1c3c5;
   --main-wrapper-bg: white; // udah dicoba
-  --main-border-color: #f3f3f3;
-  --btn-border-color: #e9ecef;
+  --main-border-color: #000000;
+  --btn-border-color: #000000;
   --text-color: #000000;
   --blockquote-border-color: #eee;
   --blockquote-text-color: #9a9a9a;
   --link-color: #2a408e;
   --link-underline-color: #dee2e6;
   --text-muted-color: gray;
-  --tb-odd-bg: #fbfcfd;
+  --tb-odd-bg: #000000;
   --tb-border-color: #eaeaea;
-  --button-bg: #fff;
+  --button-bg: #000000;
   --btn-backtotop-color: #686868;
   --btn-backtotop-border-color: #f1f1f1; //--main-border-color,
   --btn-box-shadow: #eaeaea;
@@ -32,7 +32,6 @@
     rgba(255, 255, 255) 0%,
     rgba(255, 255, 255) 0%);
   --nav-cursor-color: #000000;
-  --sidebar-text-color : rgb(0, 0, 0);
 
   /* Topbar */
   --topbar-wrapper-bg: white;
