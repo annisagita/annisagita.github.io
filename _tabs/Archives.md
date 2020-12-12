@@ -1,6 +1,6 @@
 ---
 layout: archives
-title: CV
+title: Portofolio
 icon: fas fa-archive
 order: 3
 ---
