@@ -1,7 +1,7 @@
 ---
 title: Graduation and Covid-19
 author: Annisa Gita
-date: 2020-10-13 10:00:00 +0800
+date: 2020-10-13 10:05:00 +0800
 math: true
 ---
 ## Graduation for me

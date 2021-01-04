@@ -1,7 +1,7 @@
 ---
 title: Sample Text and Typography
 author: Annisa Gita
-date: 2016-08-08 11:33:00 +0800
+date: 2016-08-08 10:33:00 +0800
 math: true
 image: /assets/img/sample/devices-mockup.png
 ---

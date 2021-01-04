@@ -1,7 +1,7 @@
 ---
 title: Information System for Amin Bakery
 author: Annisa Gita
-date: 2019-07-09 10:00:00 +0800
+date: 2019-07-09 10:24:00 +0800
 math: true
 ---
 ## Odoo

@@ -1,7 +1,7 @@
 ---
 title: My First Software Project Development as a Project Manager
 author: Annisa Gita
-date: 2019-06-04 10:00:00 +0800
+date: 2019-06-04 10:35:00 +0800
 math: true
 ---
 ## Electricity Planning Costs
