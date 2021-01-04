@@ -1,12 +1,12 @@
 ---
-title: Software Project Development
+title: My First Software Project Development as a Project Manager
 author: Annisa Gita
 date: 2019-06-04 10:00:00 +0800
 math: true
 ---
-## Software Project Development
 image: /assets/img/sample/markus-winkler-unsplash.jpg
-_<span>Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>_
+_Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>_
+## Electricity Planning Costs
 ---
 
 # H1
