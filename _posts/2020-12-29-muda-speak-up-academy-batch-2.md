@@ -4,7 +4,8 @@ author: Annisa Gita
 date: 2020-12-29 10:00:00 +0800
 math: true
 ---
+## Public speaking and give impact
+_mini quotes_
 ![Desktop View](/assets/img/sample/markus-winkler-unsplash.jpg)
 _Photo by author_
-## Public speaking and give impact
 ---
