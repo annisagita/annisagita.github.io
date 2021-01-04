@@ -5,7 +5,6 @@ date: 2020-12-29 10:27:00 +0800
 math: true
 ---
 ## Public speaking and give impact
-> mini quotes
 ![Desktop View](/assets/img/sample/markus-winkler-unsplash.jpg)
 _Photo by author_
 ---

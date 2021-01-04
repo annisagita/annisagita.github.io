@@ -5,7 +5,6 @@ date: 2019-09-24 10:38:00 +0800
 math: true
 ---
 ## Interenship at General Secretariat of The House of Representatives Republic Indonesia
-> mini quotes
 ![Desktop View](/assets/img/sample/markus-winkler-unsplash.jpg)
 _Photo by author_
 ---

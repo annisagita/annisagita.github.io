@@ -5,7 +5,6 @@ date: 2020-10-13 10:05:00 +0800
 math: true
 ---
 ## Graduation for me
-> mini quotes
 ![Desktop View](/assets/img/sample/markus-winkler-unsplash.jpg)
 _Photo by author_
 ---
