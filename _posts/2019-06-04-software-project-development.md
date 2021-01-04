@@ -4,7 +4,7 @@ author: Annisa Gita
 date: 2019-06-04 10:00:00 +0800
 math: true
 ---
-image: /assets/img/sample/markus-winkler-unsplash.jpg
+![Desktop View](/assets/img/sample/markus-winkler-unsplash.jpg)
 _Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>_
 ## Electricity Planning Costs
 ---
