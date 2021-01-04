@@ -1,14 +1,10 @@
 ---
-title: Text and Typography
-author: Cotes Chung
-date: 2019-08-08 11:33:00 +0800
+title: Sample Text and Typography
+author: Annisa Gita
+date: 2016-08-08 11:33:00 +0800
 math: true
 image: /assets/img/sample/devices-mockup.png
 ---
-
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
-
-
 ## Titles
 
 ---
