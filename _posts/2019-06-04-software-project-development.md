@@ -3,7 +3,7 @@ title: Software Project Development
 author: Annisa Gita
 date: 2019-06-04 10:00:00 +0800
 math: true
-image: /assets/img/sample/devices-mockup.png
+image: /assets/img/sample/devices-markus-winkler-unsplash.jpg
 ---
 ## Software Project Development
 ---
