@@ -3,9 +3,10 @@ title: Software Project Development
 author: Annisa Gita
 date: 2019-06-04 10:00:00 +0800
 math: true
-image: /assets/img/sample/markus-winkler-unsplash.jpg
 ---
 ## Software Project Development
+image: /assets/img/sample/markus-winkler-unsplash.jpg
+_<span>Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>_
 ---
 
 # H1
@@ -79,7 +80,7 @@ _Full screen width and center alignment_
 You can change the size of the picture:
 
 ![Desktop View](/assets/img/sample/mockup.png){: width="400"}
-_400px image width_
+_<span>Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>_
 
 In addition, you can use class `normal` , `left` and `right` to specify the image position (but in these case, the image caption is prohibited), for example:
 
