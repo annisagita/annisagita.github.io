@@ -1,10 +1,10 @@
 ---
-title: Interenship Journey
+title: Internship Journey
 author: Annisa Gita
 date: 2019-09-24 10:38:00 +0800
 math: true
 ---
-## Interenship at General Secretariat of The House of Representatives Republic Indonesia
+## Internship at General Secretariat of The House of Representatives Republic Indonesia
 ![Desktop View](/assets/img/sample/markus-winkler-unsplash.jpg)
 _Photo by author_
 ---
